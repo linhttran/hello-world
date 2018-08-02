@@ -1,2 +1,1 @@
-# hello-world
-Just another repository to get things going.
+-e "This is a readme file" 
